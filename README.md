@@ -2,16 +2,17 @@
 
 This project is a YouTube clone built using React and Redux. The application mimics some of the core functionalities of YouTube, including video search, video recommendations, and user interaction features like subscribing and notifications.
 
-Technologies Used
-Frontend:
+## Technologies Used
 
-React
-Redux Toolkit
-React Icons
-Tailwind CSS
-Backend:
+**Frontend:**
+- React
+- Redux Toolkit
+- React Icons
+- Tailwind CSS
 
-YouTube API (for fetching video data)
+**Backend:**
+- YouTube API (for fetching video data)
+
 
 ## Features
 - **Video Search**: Search for videos using the search bar.
