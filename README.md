@@ -17,9 +17,9 @@ This project is a YouTube clone built using React and Redux. The application mim
 ## Features
 - **Video Search**: Search for videos using the search bar.
 - **Video Recommendations**: Display recommended videos based on user search.
-- **Responsive Design**: The application is responsive and works across different screen sizes.
+- **Add Free Videos**: Enjoy Add Free Videos.
 - **Infinite Scrolling**: Load more videos as the user scrolls down the page.
-- **Notifications**: Display notifications for new videos.
+  
 
 ## Installation
 To run this project locally, follow these steps:
